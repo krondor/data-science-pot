@@ -1,4 +1,4 @@
-[DSX Logo](dsx_logo.svg?raw=true)
+[DSX Logo](blob/master/dsx_logo.svg?raw=true)
 
 # Spark,	Natural	Language	Processing,	Machine	Learning,	Operationalize and Models
 
