@@ -19,9 +19,9 @@ Expect to spend a half day of lecture and hands on exercises attacking real-worl
    - 12:00 pm - 12:30pm Lunch, Socialize
    - 12:30pm – 12:45pm Kickoff / Introductions/Account Setup
    - 12:45pm – 1:15pm Intro to Watson Data Platform/Data Science Experience and Apache Spark
-   - 1:15pm – 1:45pm Lab 1, Hello Spark and Spark SQL
+   - 1:15pm – 1:45pm Lab 1, Hello Spark and Spark SQL (2 Parts)
    - 1:45pm – 2:30pm Lab 2 Overview of Data Science & Machine Learning w/ Apache Spark
-   - 2:30pm - 3:00pm Lab 2, NLP and Machine Learning w/ Spark 
-   - 3:00pm – 3:30pm Lab 3, Data Science Scoring and Operationalizing the Model 
+   - 2:30pm - 3:00pm Lab 3, NLP and Machine Learning w/ Spark 
+   - 3:00pm – 3:30pm Lab 4, Data Science Scoring and Operationalizing the Model 
    - 3:30pm - 4:00pm Data Science Forum
    - 4:00pm – onward Wrap up and Feedback
