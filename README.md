@@ -1,3 +1,5 @@
+![DSX Logo](https://krondor.github.com/data-science-pot/img/logo.svg)
+
 # Spark,	Natural	Language	Processing,	Machine	Learning,	Operationalize and Models
 
 ## POT Hands on Labs
