@@ -1,4 +1,4 @@
-![DSX Logo](https://raw.githubusercontent.com/krondor/data-science-pot/master/dsx_logo.svg)
+[DSX Logo](dsx_logo.svg?raw=true)
 
 # Spark,	Natural	Language	Processing,	Machine	Learning,	Operationalize and Models
 
