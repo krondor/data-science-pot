@@ -25,3 +25,7 @@ Expect to spend a half day of lecture and hands on exercises attacking real-worl
    - 3:00pm – 3:30pm Lab 3, Data Science Scoring and Operationalizing the Model 
    - 3:30pm - 4:00pm Data Science Forum
    - 4:00pm – onward Wrap up and Feedback
+
+## Data Science POT 2
+To view the second POT assets click here;
+[Data Science Experience POT 2](https://github.com/krondor/data-science-pot-2/
