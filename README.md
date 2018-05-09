@@ -28,4 +28,4 @@ Expect to spend a half day of lecture and hands on exercises attacking real-worl
 
 ## Data Science POT 2
 To view the second POT assets click here;
-[Data Science Experience POT 2](https://github.com/krondor/data-science-pot-2/
+[Data Science Experience POT 2](https://github.com/krondor/data-science-pot-2/)
